@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @georgianjagjit
-- 👀 I’m interested in making && maintaing database and software development.
-- 🌱 I’m currently learning C/C++, JS, HTML, CSS, JS.
-- 📫 How to reach me info@georgianjagjit.com, jagjit.singh@uleth.ca
+Leverage C/C++, JS, HTML, CSS, JS, React, typescript, docker, python. 
+Love to do software development.
+
+Reach me at
+- info@georgianjagjit.com
+- jagjit.singh@uleth.ca
