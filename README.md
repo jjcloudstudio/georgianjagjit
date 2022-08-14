@@ -9,7 +9,7 @@ Covfefe lover
 *   🌍  I'm based in Calgary, Canada
 *   🖥️  See my portfolio at [georgianjagjit.com](http://georgianjagjit.com)
 *   ✉️  You can contact me at [info@georgianjagjit.com](mailto:info@georgianjagjit.com)
-*   🚀  I'm currently working on [404movers](http://404movers.ca/)
+*   🚀  I'm currently working with [404movers](http://404movers.ca/)
 *   🧠  I'm learning React, Node.js
 *   🤝  I'm open to collaborating on open source projects
 *   ⚡  I love to travel and share memes### Skills<p align="left">
